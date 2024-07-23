@@ -17,11 +17,16 @@ To create a program that converts temperatures between Celsius, Fahrenheit, and 
 
 **Key Activities**
 Understanding the problem: The the necessary formulas for converting temperatures between Celsius, Fahrenheit, and Kelvin are need to be known.
+
 Program designing: Planning the structure of the program and identifying the functions needed for each conversion is done.
+
 Implementation: The prototypes are defined.The logic for reading user input, performing conversions, and displaying the results are implemented.
+
 Testing and Debugging: Proper testing of the program is done with different inputs to ensure accurate conversions. The program is debugged for any issues or incorrect calculations.
+
 Optimization: Ensuring the program is efficient and easy to understand is the most important step.
 
 **Technologies used**
 C Programming language
+
 VSS Code
